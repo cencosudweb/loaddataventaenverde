@@ -1,0 +1,20 @@
+El programa se esta ejecutando...
+[crearConexionOracle]error: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Inicio Programa: 11/10/17 06:18:27
+
+iFechaFin: 20171011
+
+sFechaIni: 20171010
+
+sFechaFin: 20171010
+
+Pausa para Eliminar ecommerce_soporte_venta sleep(60 seg)
+[Ini paso 1]
+[crearPaso1]Exception:null
+Archivos creados.
+
+Fin Programa: 11/10/17 06:18:27
+
+El programa finalizo.
